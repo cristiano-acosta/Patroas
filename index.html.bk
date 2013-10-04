@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Nikebetterworld.com jQuery Parallax Effect Demo</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="scripts/nbw-parallax.js"></script>
+<script type="text/javascript" src="scripts/jquery.localscroll-1.2.7-min.js"></script>
+<script type="text/javascript" src="scripts/jquery.scrollTo-1.4.2-min.js"></script>
+<script type="text/javascript" src="scripts/jquery.inview.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#nav').localScroll();
+})
+</script>
+</head>
+
+<body>
+<!--
+<ul id="nav">
+	<li><a href="#intro" title="Next Section"><img src="images/dot.png" alt="Link" /></a></li>
+    <li><a href="#second" title="Next Section"><img src="images/dot.png" alt="Link" /></a></li>
+    <li><a href="#third" title="Next Section"><img src="images/dot.png" alt="Link" /></a></li>
+    <li><a href="#fourth" title="Next Section"><img src="images/dot.png" alt="Link" /></a></li>
+    <li><a href="#fifth" title="Next Section"><img src="images/dot.png" alt="Link" /></a></li>
+</ul>
+
+<div id="header">
+	<div class="story">
+        <h1>Nikebetterworld.com Parallax Demo</h1>
+        <p><a href="http://www.ianlunn.co.uk/blog/code-tutorials/recreate-nikebetterworld-parallax/" title="Tutorial">Read the Tutorial</a><br />
+        <a href="http://www.ianlunn.co.uk/demos/recreate-nikebetterworld-parallax/recreate-nikebetterworld-parallax.zip" title="Demo">Download the Demo Files</a></p>
+    </div> <!--.story->
+</div> #header-->
+
+<div id="intro">
+	<div class="story">
+    	<div class="float-left">
+		    <h2>PATROAS</h2>
+		    <p>Conceituação e Análise de Mercado</p>
+        </div>
+    </div> <!--.story-->
+</div> <!--#intro-->
+
+<div id="second">
+	<div class="story">
+		<div class="bg"></div>
+    	<div class="float-left">
+		    <h2>A origem</h2>
+		    <h1>ESCRAVIDÃO</h1>
+		    <p>Divisão da força de obra</p>
+		    <p>Trabalho Doméstico</p>
+		    <p>Trabalho no Campo</p>
+        </div>
+    </div> <!--.story-->
+</div> <!--#second-->
+
+<div id="third">
+	<div class="story">
+		<div class="bg"></div>
+    	<div class="float-right">
+        	<h2>Como o empregado domestico é tratado no Brasil</h2>
+          <p>MEMBRO DA FAMÍLIA </p>
+		      <p>NÃO GERA LUCRO</p>
+        </div>
+    </div> <!--.story-->
+</div> <!--#third-->
+
+<div id="fourth">
+	<div class="story">
+    	<div class="float-left">
+            <h2>NÃO POSSUIAM OS DIREITOS DOS TRABALHADORES</h2>
+            <p>LEI 3.078/1941</p>
+		        <p>LEI 5.859/1972</p>
+		        <p>CONSTITUIÇÃO DE 1988</p>
+		        <p>LEI 11.324/2006</p>
+        </div>
+    </div> <!--.story-->
+</div> <!--#fourth-->
+<div id="fifth">
+	<div class="story">
+		<p>7,2 MILHÕES DE EMPREGADOS DOMÉSTICOS</p>
+            	<p>6,7 milhões de mulheres</p>
+            	<p>504 mil homens</p>
+                <p>3 MILHÕES NÃO RECEBE UM SALÁRIO MINÍMO</p>
+                <p>1/3º CARTEIRA ASSINADA</p>
+                <p>Maior numero Nordeste</p>
+                <p>Menor numero Porto Alegre</p>
+
+    </div> <!--.story-->
+</div> <!--#fifth-->
+<div id="quinta">
+	<div class="story">
+		<div class="float-left">
+			<p>Jornada máxima de 44 horas semanais</p>
+			<p>8 horas diárias de trabalho</p>
+			<p>pagamento de hora extra</p>
+			<p>Recolhimento de FGTS</p>
+			<p>adicional noturno</p>
+			<p>auxílio-creche</p>
+			<p>auxílio família</p>
+		</div>
+	</div> <!--.story-->
+</div> <!--#intro-->
+
+<div id="sexta">
+	<div class="story">
+		<!--<div class="bg"></div>-->
+		<div class="float-right">
+			<h2>Nota-se que o mercado é composto por</h2>
+			<p></p>
+		</div>
+	</div> <!--.story-->
+
+</div> <!--#second-->
+
+<div id="setima">
+	<div class="story">
+		<div class="float-left">
+
+		</div>
+	</div> <!--.story-->
+</div> <!--#third-->
+
+<div id="oitavas">
+	<div class="story">
+		<div class="float-left">
+			<h2>Quem apoia as empregadas?</h2>
+
+		</div>
+	</div> <!--.story-->
+</div> <!--#fourth-->
+
+<div id="nove">
+	<div class="story">
+
+	</div> <!--.story-->
+</div> <!--#fifth-->
+<div id="dez">
+	<div class="story">
+
+	</div> <!--.story-->
+</div> <!--#fifth-->
+
+
+</body>
+</html>
