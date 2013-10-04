@@ -1,8 +1,7 @@
-Demo: Recreating the Nikebetterworld.com Parallax Demo
-Author: Ian Lunn
-Author URL: http://www.ianlunn.co.uk/
-Demo URL: http://www.ianlunn.co.uk/demos/recreate-nikebetterworld-parallax/
-Tutorial URL: http://www.ianlunn.co.uk/blog/code-tutorials/recreate-nikebetterworld-parallax/
+Demo: Paralaxx Presentation v1.0
+Author: Cristiano Acosta
+Demo URL: http://patroas.leoncastello.com.br/
+
 
 License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike). Please attribute work to Ian Lunn simply by leaving these comments in the source code or if you'd prefer, place a link on your website to http://www.ianlunn.co.uk/.
 
